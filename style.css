@@ -4,19 +4,12 @@
       --surface: #eee8d8;
       --card: #ffffff;
       --border: #d8cebb;
-<<<<<<< HEAD
       --accent: #b8893a;
       --accent2: #19fd0d;
       --accent3: #1e1b7e;
       --text: #eaa968;
-=======
-      --accent: #1790a3;
-      --accent2: #3d6b52;
-      --accent3: #c0392b;
-      --text: #1a1510;
->>>>>>> 0fb2f23f2d6571c8a3ba97bb88ce77025aff6c87
       --muted: #7a6e60;
-      --tag-bg: #e6ce9b;
+      --tag-bg: #3cb838;
       --shadow: rgba(90,70,40,0.10);
     }
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
