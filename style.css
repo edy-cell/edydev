@@ -5,11 +5,11 @@
       --card: #ffffff;
       --border: #d8cebb;
       --accent: #b8893a;
-      --accent2: #3d6b52;
-      --accent3: #c0392b;
-      --text: #1a1510;
+      --accent2: #19fd0d;
+      --accent3: #1e1b7e;
+      --text: #eaa968;
       --muted: #7a6e60;
-      --tag-bg: #f0ebe0;
+      --tag-bg: #e6ce9b;
       --shadow: rgba(90,70,40,0.10);
     }
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
