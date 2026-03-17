@@ -36,3 +36,7 @@
     el.style.transition="opacity 0.55s ease, transform 0.55s ease";
     obs.observe(el);
   });
+
+  fetch('aportes.html')
+    .then(res => res.text())
+    .then(data => document.getElementById('aportes').innerHTML = data);
